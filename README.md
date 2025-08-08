@@ -66,4 +66,4 @@ Connect on [LinkedIn](www.linkedin.com/in/prashant-raj-b1b3922a6)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](License.md) file for details.
