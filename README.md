@@ -62,7 +62,7 @@ The dataset contains the following fields:
 ## 📝 Author
 
 **Prashant Raj** – Data Analyst & Tech Enthusiast  
-Connect on [LinkedIn](www.linkedin.com/in/prashant-raj-b1b3922a6)
+Connect on [LinkedIn](www.linkedin.com/in/prashant-raj-b1b3922a6/)
 
 ## 📄 License
 
