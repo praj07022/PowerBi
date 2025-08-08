@@ -50,7 +50,8 @@ The dataset contains the following fields:
 ## 📷 Preview
 
 ![Dashboard Screenshot](./Screenshot%202025-07-28%20121054.png)
-![Dashboard Screenshot](./Screenshot%202025-07-28%20121054.png)
+![Dashboard Screenshot](./Screenshot%202025-07-28%20123209.png)
+
 
 ## 🧠 Learnings & Skills Demonstrated
 
